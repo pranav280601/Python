@@ -3,7 +3,7 @@ from array import *
 
 def main():
 
-	arr = array('i',[10,20,30,40,110])		# i stands for int  # b for char     f - float   d - double
+	arr = array('i',[10,20,30,40,110])		
 
 	print(type(arr))
 
