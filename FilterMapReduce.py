@@ -24,8 +24,7 @@ def CheckEven(no):
     else:
         return False
 
-    #for i in range(0,len(List),1)
-
+    
 def Filterr(arr):
     brr=[]
 
