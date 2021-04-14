@@ -2,7 +2,7 @@
 
 def main():
 
-	arr = {10,23.5,"Pranav",10}				# 10 - Duplication not allowed
+	arr = {10,23.5,"Pranav",10}				
 
 	print(type(arr))
 
@@ -20,11 +20,11 @@ def main():
 	
 	print(arr)	
 
-	arr.remove(20) 						# arr.remove(120)  creates KeyError 		
+	arr.remove(20) 						 		
 
 	print(arr)
 
-	arr.discard(10)						# arr.discard(120)   does not create exception   ignores and continue
+	arr.discard(10)						
 
 	print(arr)
 
