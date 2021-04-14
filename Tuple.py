@@ -1,9 +1,3 @@
-
-
-# Tuple is not mutable
-
-
-
 def main():
 
 	tup = (11,20.43,34,32) 
