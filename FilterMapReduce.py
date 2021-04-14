@@ -2,8 +2,6 @@
 # after that add 2 in every even number
 # after that perform summation of all that modified number
 
-#Input : 1 2 3 4 5 
-#Ouput: 10
 
 
 def Reduce(crr):
