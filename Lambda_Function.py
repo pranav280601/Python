@@ -1,8 +1,4 @@
-#name = lambda parameters : Funtion body
 
-
-
-# named function
 def Addition(n1,n2):
 	return n1+n2
 
