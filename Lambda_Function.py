@@ -3,7 +3,6 @@ def Addition(n1,n2):
 	return n1+n2
 
 
-# using lambda function
 Sum = lambda n1,n2 : n1+n2
 
 def Fun(name):
