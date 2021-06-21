@@ -6,7 +6,7 @@ def Addition(x,y):
 
 
 def main():
-	if len(sys.argv)<2 or len(sys.argv)>2:
+	if len(sys.argv)<3 or len(sys.argv)>3:
 		print("Invalid number of arguments ")
 		return
 
